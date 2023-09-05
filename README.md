@@ -7,9 +7,11 @@
 
 <div align="center">
 Currently focused on Backend using .NET | C# | API's
-
+</div><br/>
+<div align="center">
 Using various SQL/NoSQL databases
-
+</div><br/>
+<div align="center">
 Also exploring Cloud, Servers, VM, Javascript, Python and Angular
 </div>
 <br/>
