@@ -5,15 +5,10 @@
 <h3 align="center">Brazilian developer constantly seeking knowledge</h3>
 <br/>
 
-<div align="center">
-Currently focused on Backend using .NET | C# | API's
-</div><br/>
-<div align="center">
-Using various SQL/NoSQL databases
-</div><br/>
-<div align="center">
-Also exploring Cloud, Servers, VM, Javascript, Python and Angular
-</div>
+<p align="center">Currently focused on Backend using .NET | C# | API's</p>
+<p align="center">Using various SQL/NoSQL databases</p>
+<p align="center">Also exploring Cloud, Servers, VM, Javascript, Python and Angular</p>
+<p align="center">Game development is one of my passions</p>
 <br/>
 
 ###
